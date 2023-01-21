@@ -1,7 +1,7 @@
-Bhavjot Gill Assignment 4
-Question one reads 200 2-digit numbers from a f.dat file, then stores them into a 2-diminesional array. Then using a down heap
+Bhavjot Gill 
+Reads 200 2-digit numbers from a f.dat file, then stores them into a 2-diminesional array. Then using a down heap
 algrothim it sorts it and displays the sorted array.
-Sample output from Q1:
+Sample output :
 input: f.dat
 output: 
 29 30 0 91 26 9 91 70 21 14 
